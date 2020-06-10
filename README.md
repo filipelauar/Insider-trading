@@ -6,6 +6,7 @@ Dataset and code of the ECML/PKDD 2020 paper 207: "Identifying and predicting ev
 To run the R codes you need the packages ``data.table", ``MLmetrics" and ``xgboost". To obtain the same results as reported, we suggest using the version 0.90.0.2 of the xgboost package available on R. You also need to set the directory of the file ``dataset.csv'' to run the codes.
 
 # Dataset
+|     N | Column name                 | Type     | Description                                         |
 |-------|-----------------------------|----------|-----------------------------------------------------|
 |     1 | stockName                   | string   | Stock code                                          |
 |     2 | date                        | date     | Date in format YYYY-MM-DD                           |
