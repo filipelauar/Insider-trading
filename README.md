@@ -40,4 +40,3 @@ To run the R codes you need the packages ``data.table", ``MLmetrics" and ``xgboo
 |       |                             |          | market: 0 (no evidence), 1 (evidence)               |
 |    27 | optionsMarket               | binary   | Possible evidence of insider trading on options     |
 |       |                             |          | market: 0 (no evidence), 1 (evidence)               |
-|-------|-----------------------------|----------|-----------------------------------------------------|
