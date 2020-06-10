@@ -174,8 +174,9 @@ array_stratifiedRecall = c()
 array_uniformPrecision = c()
 array_uniformRecall = c()
 
-
-originalData = fread("C:\\Users/Filipe/Desktop/dataset.csv")
+#Include the path
+#setwd('dataset_path')
+originalData = fread("dataset.csv")
 
 for(time_window in c(20:1))
 {
