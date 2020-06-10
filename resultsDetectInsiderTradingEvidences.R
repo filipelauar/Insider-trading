@@ -64,7 +64,7 @@ recall90 <- function(preds, dteste)
 
 #Include the path
 #setwd('dataset_path')
-data <- fread("C:\\Users/Filipe/Desktop/dataset.csv")
+data <- fread("dataset.csv")
 
 #Subseting only day in the time window
 data = subset(data ,data$daysBeforeNewsEvent != 0)
