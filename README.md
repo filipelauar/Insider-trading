@@ -7,13 +7,9 @@ If this repository was useful to you please cite our paper:
 
 ``
 @inproceedings{Lauar2020DetectingAP,
-
   title={Detecting and Predicting Evidences of Insider Trading in the Brazilian Market},
-  
-  author={Filipe Lauar and C. Valle},
-  
+  author={Filipe Lauar and C. Valle},  
   booktitle={ECML/PKDD},
-  
   year={2020}
 }
 ``
