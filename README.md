@@ -1,6 +1,18 @@
 # Insider-trading
 Datasets and codes about insider trading in the Brazilian market. For further information check our ECML PKDD 2020 paper 207: "Detecting and predicting evidences of insider trading in the Brazilian market".
 
+# Cite this paper
+
+If this repository was useful to you please cite our paper:
+
+``
+@inproceedings{Lauar2020DetectingAP,
+  title={Detecting and Predicting Evidences of Insider Trading in the Brazilian Market},
+  author={Filipe Lauar and C. Valle},
+  booktitle={ECML/PKDD},
+  year={2020}
+}``
+
 # Instructions
 
 To check the results presented in the paper, open the ``ECML_PKDD_2020`` folder. To run the R codes you need the packages ``data.table``, ``MLmetrics`` and ``xgboost``. To obtain the exact same results as reported, we suggest using the version 0.90.0.2 of the xgboost package available on R. You also need to set the directory of the file ``dataset.csv`` to run the codes.
